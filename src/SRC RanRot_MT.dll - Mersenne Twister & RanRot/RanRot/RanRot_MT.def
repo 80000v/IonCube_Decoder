@@ -1,0 +1,6 @@
+LIBRARY	mt
+EXPORTS 
+	MT_GetI8	= genrand_int31
+	MT_Init		= init_genrand
+	RanRot_Init
+	RanRot_GetI8

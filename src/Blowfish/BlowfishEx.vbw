@@ -1,0 +1,7 @@
+frmBlowfishEx = 22, 22, 629, 359, , 0, 0, 0, 0, C
+basBlfArrays = 0, 0, 0, 0, C
+basBlowfish = 0, 0, 0, 0, C
+basConvert = 0, 0, 0, 0, C
+basRadix64 = 44, 44, 525, 381, 
+basUnsignedWord = 0, 0, 0, 0, C
+basBlowfishByteFns = 66, 66, 547, 403, 
